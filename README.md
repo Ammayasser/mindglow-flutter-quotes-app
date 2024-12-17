@@ -34,8 +34,8 @@
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.png" width="200"/>
-  <img src="screenshots/topics_screen.png" width="200"/>
+  <img src="screenshots/home-page.png" width="200"/>
+  <img src="screenshots/welcome-page.png" width="200"/>
   <img src="screenshots/dark_mode.png" width="200"/>
   <img src="screenshots/favorites.png" width="200"/>
 </div>
