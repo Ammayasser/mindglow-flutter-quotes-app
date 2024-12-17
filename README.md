@@ -32,13 +32,14 @@
 - Custom theme support
 
 ## Screenshots
+![Screenshot 2024-12-17 153842](https://github.com/user-attachments/assets/40cf1623-39d3-46b2-bca3-465f567dd04f)
+![Screenshot 2024-12-17 153827](https://github.com/user-attachments/assets/d6d98c01-ff56-40c7-9ef1-da372e564efa)
+![Screenshot 2024-12-17 153805](https://github.com/user-attachments/assets/f68122f8-323f-40b1-899e-5a4fcf13a1da)
+![Screenshot 2024-12-17 153754](https://github.com/user-attachments/assets/d91c7b56-56b7-4214-9282-d467006684d4)
+![Screenshot 2024-12-17 153744](https://github.com/user-attachments/assets/ef0d30ac-3571-4490-888c-991da2e6f9d4)
+![Screenshot 2024-12-17 153732](https://github.com/user-attachments/assets/417d9f1d-05ee-43c8-8396-7acadef863f6)
 
-<div align="center">
-  <img src="screenshots/home-page.png" width="200"/>
-  <img src="screenshots/welcome-page.png" width="200"/>
-  <img src="screenshots/dark_mode.png" width="200"/>
-  <img src="screenshots/favorites.png" width="200"/>
-</div>
+
 
 ## Getting Started
 
